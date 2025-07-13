@@ -7,7 +7,7 @@ import sqlite3
 
 # --- Settings ---
 # TMDB API Key
-API_KEY = '472d45a68f121a83a145abb9031ee947'
+API_KEY = 'PUT YOUR API KEY HERE'
 BASE_URL = 'https://api.themoviedb.org/3'
 
 def fetch_top_movies():
